@@ -1,0 +1,74 @@
+nav{
+    float: left;
+}
+
+#logo {
+    float: left;
+    width: 20%;
+    margin-top: 1%;
+}
+
+h1 {color: red; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: xxx-large;
+    float: left;
+}
+span {
+    color: red;
+    font-family: arial;
+    font-size: xxx-large;
+    margin: 70px 20px 50px 5px;  
+    float: left;  
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: black solid;
+}
+
+#nav li{
+float: left;
+background-color:blanchedalmond;
+width: 15%;
+}
+
+#nav li a :hover {
+    width: 50%;
+    padding: 5% 30%;
+    display: block;
+    background-color: green;
+    text-align: left;
+}
+
+footer{
+    color: red;
+    text-align:unset;
+    margin-bottom: 5%;
+    float: left;
+}
+/*body {
+    background-image: url(../Imagenes/Ban.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-attachment: fixed;
+ border: thick green solid;
+    background-color: aqua;
+    border-color: green blue yellow black;width: 20%;
+    height: 60px;
+    margin: 40px 20px 50px 5px;
+    border-width: thick;
+    border-style: groove;
+
+    h1,h2,h3 {color: blue; 
+    font-family: "Lucida Sans"; 
+    font-weight: bold;
+    text-decoration: underline;
+    float: left;
+}
+}*/  
+
+
