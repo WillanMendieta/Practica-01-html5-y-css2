@@ -3,13 +3,11 @@ nav{
     margin-top: 1%;
     width: 101%;
 }
-
 #logo {
     float: left;
     width: 18%;
     margin-top: 1%;
 }
-
 #nav li{
     float: left;
     width: 12%;
@@ -25,8 +23,7 @@ nav{
         width: 100%;
         padding: 1% 1%;
         display: block;
-    }
-    
+    }  
 #navayuda{
     float: left;
     margin-top: 8%;
@@ -51,19 +48,16 @@ nav{
         display: block;
         float: left;
 }
-
 *{
     margin: 0;
     padding: 0;
-    border: black solid;
+    
     background-color: white;
 }
-
 h1{
     margin-left: 17%;
     margin-top: 3%;
 }
-
 h2{
     margin-left: 5%;
     margin-top: 8%;
@@ -78,48 +72,37 @@ footer{
     float: left;
 
 }
-
-
-
 #MapaAzu {
     float: left;
-    width: 26%;
-    margin-top: 1%;
+    width: 70%;
+    margin-left: 120%;
+    margin-top: -115%;
 
 }
-
 #MapaCantonesA {
     float: left;
-    width: 26%;
-    margin-top: 1%;
+    width: 70%;
+    margin-left: 120%;
+    margin-top: -38%;
 }
-
 #ImgCuenca {
     float: left;
     width: 10%;
-    margin-top: 1%;
-    margin-left: 18%;
-    margin-top: -11%;
+    margin-left: -7%;
+    margin-top: -4%;
 }
-
-
 #ImgChordeleg {
     float: left;
     width: 10%;
-    margin-top: 1%;
-    margin-left: 29%;
-    margin-top: -11%;
+    margin-left: -8%;
+    margin-top: -4%;
 }
-
-
 #ImgPaute {
     float: left;
     width: 8%;
-    margin-top: 1%;
-    margin-left: 40%;
-    margin-top: -14%;
+    margin-left: -7%;
+    margin-top: -7%;
 }
-
 #Historia{
     float: left;
     margin-top: 1%;
@@ -128,56 +111,46 @@ footer{
     margin-bottom: 1%;
     width: 30%;
 }
-
-
 #CiuA{
     float: left;
     width: 7%;
     margin-left: 30%;
-    margin-top: -15%;
+    margin-top: -7%;
     height: 30%;
 }
-
-
 #Cuenca{
     float: left;
     width: 4%;
     margin-left: 21%;
-    margin-top: -3%;
+    margin-top: 5%;
 
 }
-
 #Chordeleg{
     float: left;
     width: 6%;
-    margin-left: 31%;
-    margin-top: -3%;
+    margin-left: 5%;
+    margin-top: 5%;
 
 }
-
 #Paute{
     float: left;
     width: 4%;
-    margin-left: 42%;
-    margin-top: -3%;
+    margin-left: 6%;
+    margin-top: 5%;
 
 }
-
 #BloqueImagen{
     float: left;
     height: max-content;
 }
-
 #BloqueHistoria{
     float: left;
     height: max-content;
 }
-
 #BloqueNavegacion{
     float: left;
     height: max-content;
 }
-
 #Pie{
     float: left;
     width: 100%;
