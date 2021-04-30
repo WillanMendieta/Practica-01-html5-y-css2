@@ -31,25 +31,25 @@ h2 {color: black;
     font-size: x-large;
     float: left;
 }
-#MapaAzu {
+#Mapa {
     border: black solid;
 }
 
-#MapaCantonesA {
+#MapaC {
     border: black solid;
 }
 
-#ImgCuenca {
-    border: black solid;
-}
-
-
-#ImgChordeleg {
+#IC1 {
     border: black solid;
 }
 
 
-#ImgPaute {
+#IC2 {
+    border: black solid;
+}
+
+
+#IC3 {
     border: black solid;
 }
 
