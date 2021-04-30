@@ -1,0 +1,84 @@
+#nav li{
+    border: black solid;
+    font-style: italic;
+    list-style: none;
+    }
+    #nav li a {
+        background-color: yellow;
+    }
+
+#navayuda{
+    float: left;
+    font-style: italic;
+}
+
+
+#navegacionLoMeAY li a{
+        background-color:red; 
+}
+
+h1 {color: red; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size:700%;
+    float: left;
+}
+
+h2 {color: black; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight:normal;
+    font-size: x-large;
+    float: left;
+}
+#MapaAzu {
+    border: black solid;
+}
+
+#MapaCantonesA {
+    border: black solid;
+}
+
+#ImgCuenca {
+    border: black solid;
+}
+
+
+#ImgChordeleg {
+    border: black solid;
+}
+
+
+#ImgPaute {
+    border: black solid;
+}
+
+#CiuA{
+
+    color: red; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight:normal;
+    font-size: xx-large;
+}
+
+#Cuenca{
+    color: red; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight:normal;
+    font-size: x-large;
+
+}
+
+#Chordeleg{
+    color: red; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight:normal;
+    font-size: x-large;
+}
+
+#Paute{
+    color: red; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight:normal;
+    font-size: x-large;
+}

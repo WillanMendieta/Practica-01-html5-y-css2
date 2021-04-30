@@ -1,7 +1,7 @@
 nav{
     float: left;
     margin-top: 1%;
-    width: 89%;
+    width: 101%;
 }
 
 #logo {
@@ -19,115 +19,79 @@ nav{
     margin-right: 2%;
     margin-bottom: 1%;
     margin: 0;
-    list-style: none;
-    border: black solid;
+
     }
-    
     #nav li a {
         width: 100%;
         padding: 1% 1%;
         display: block;
-        background-color:yellow; 
     }
     
-
-h1 {color: red; 
-    font-family: 'Times New Roman', Times, serif; 
-    font-weight: bolder;
-    text-decoration: underline;
-    font-size:700%;
+#navayuda{
     float: left;
-    margin-left: 17%;
-    margin-top: 3%;
-}
-
-h2 {color: black; 
-    font-family: 'Times New Roman', Times, serif; 
-    font-weight:normal;
-    font-size: x-large;
-    float: left;
-    margin-left: 5%;
     margin-top: 8%;
+    width: 22%;
+    height: 2%;
+    margin-left: 10%;
 }
-
-#logueo {
-    color:rgb(255, 174, 0);
+#navegacionLoMeAY li{
+    float: left;
+    width: 31%;
+    text-align-last:center;
+    font-size: 150%;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin: 0;
+    list-style: none;
 }
-#mensaje {
-    color:blue;
-}
-#ayuda {
-    color:red;
+#navegacionLoMeAY li a{
+    width: 100%;
+        padding: 0 0%;
+        display: block;
+        float: left;
 }
 
 *{
     margin: 0;
     padding: 0;
-    
+    border: black solid;
     background-color: white;
 }
 
+h1{
+    margin-left: 17%;
+    margin-top: 3%;
+}
 
+h2{
+    margin-left: 5%;
+    margin-top: 8%;
+}
 footer{
     color:green;
     text-align:unset;
     margin-bottom: 1%;
-   
     margin-top: 1%;
     margin-right: 3%;
     text-align: center ;
     float: left;
 
 }
-/*
-#navCig{
-    float: left;
-    margin-top: 3%;
-    width: 13%;
-}
 
-#navCi li{
-    float: left;
-    width: 50%;
-    font-size: xxx-large;
-    margin-left: 25%;
-    margin-top: 25%;
-    margin-right: 25%;
-    margin-bottom: 25%;
-    font-size:xx-large;
-    margin: 0;
-    list-style: none;
-  
-    }
-    
-    #navCi li a {
-        width: 100%;
-        padding: 1% 1%;
-        display: block;
-        background-color:yellow;
-        
-    }
-
-    <nav id="navCig"> 
-    <ul id="navCi"> 
-    <li><a href="Azuay.html">Cuenca</a></li> 
-    <li><a href="Guayas.html">Gualaceo</a></li> 
-</nav>
-*/
 
 
 #MapaAzu {
     float: left;
     width: 26%;
     margin-top: 1%;
-    border: black solid;
+
 }
 
 #MapaCantonesA {
     float: left;
     width: 26%;
     margin-top: 1%;
-    border: black solid;
 }
 
 #ImgCuenca {
@@ -136,7 +100,6 @@ footer{
     margin-top: 1%;
     margin-left: 18%;
     margin-top: -11%;
-    border: black solid;
 }
 
 
@@ -146,7 +109,6 @@ footer{
     margin-top: 1%;
     margin-left: 29%;
     margin-top: -11%;
-    border: black solid;
 }
 
 
@@ -156,8 +118,6 @@ footer{
     margin-top: 1%;
     margin-left: 40%;
     margin-top: -14%;
-    border: black solid;
-
 }
 
 #Historia{
@@ -171,11 +131,6 @@ footer{
 
 
 #CiuA{
-
-    color: red; 
-    font-family: 'Times New Roman', Times, serif; 
-    font-weight:normal;
-    font-size: xx-large;
     float: left;
     width: 7%;
     margin-left: 30%;
@@ -185,10 +140,6 @@ footer{
 
 
 #Cuenca{
-    color: red; 
-    font-family: 'Times New Roman', Times, serif; 
-    font-weight:normal;
-    font-size: x-large;
     float: left;
     width: 4%;
     margin-left: 21%;
@@ -197,10 +148,6 @@ footer{
 }
 
 #Chordeleg{
-    color: red; 
-    font-family: 'Times New Roman', Times, serif; 
-    font-weight:normal;
-    font-size: x-large;
     float: left;
     width: 6%;
     margin-left: 31%;
@@ -209,10 +156,6 @@ footer{
 }
 
 #Paute{
-    color: red; 
-    font-family: 'Times New Roman', Times, serif; 
-    font-weight:normal;
-    font-size: x-large;
     float: left;
     width: 4%;
     margin-left: 42%;
@@ -226,6 +169,11 @@ footer{
 }
 
 #BloqueHistoria{
+    float: left;
+    height: max-content;
+}
+
+#BloqueNavegacion{
     float: left;
     height: max-content;
 }
