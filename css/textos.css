@@ -14,7 +14,7 @@ body{
     float: left;
     width: 100%;
     margin-left: 0%;
-    margin-top: -14%;
+    margin-top: 6%;
 }
 
 #nav li{
@@ -28,6 +28,17 @@ body{
     background-color: yellow;
 }
 
+
+#Menu li{
+    border: black solid;
+    font-style: italic;
+    list-style: none;
+
+     background-color: greenyellow; 
+}
+#Menu li a:hover{
+    background-color: yellow;
+}
 
 #navayuda{
     float: left;
@@ -58,6 +69,12 @@ h2 {color: whitesmoke;
     float: left;
 }
 
+em{
+    color: whitesmoke;
+}
+samp {
+    color: whitesmoke;
+}
 .nom{
     color: whitesmoke; 
     font-family: 'Times New Roman', Times, serif; 
@@ -91,8 +108,11 @@ h2 {color: whitesmoke;
     float: left;
 }
 
+#cuadroMenu{
+    background-color: rgb(21, 124, 168,0.6);
+}
 
-#Historia{
+#Historia,#HistoriaDos,#HistoriaDosG, #Historia2,#Historia3,#Historia4,#Historia5,#Historia6,#Historia7,#Historia8,#Historia9,#Historia10,#Historia11,#Historia12{
     color: whitesmoke;
     background-color: rgb(21, 124, 168,0.6);
 }
@@ -101,6 +121,20 @@ h2 {color: whitesmoke;
 }
 
 #MapaC {
+    border: black solid;
+}
+#MapaM {
+    border: black solid;
+}
+
+#MapaCM {
+    border: black solid;
+}
+#MapaG {
+    border: black solid;
+}
+
+#MapaCG {
     border: black solid;
 }
 

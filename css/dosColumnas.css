@@ -136,6 +136,33 @@ footer{
     margin-left: 120%;
     margin-top: -38%;
 }
+#MapaM {
+    float: left;
+    width: 70%;
+    margin-left: 120%;
+    margin-top: -200%;
+
+}
+#MapaCM{
+    float: left;
+    width: 70%;
+    margin-left: 120%;
+    margin-top: -100%;
+}
+
+#MapaG {
+    float: left;
+    width: 70%;
+    margin-left: 120%;
+    margin-top: -160%;
+
+}
+#MapaCG{
+    float: left;
+    width: 70%;
+    margin-left: 120%;
+    margin-top: -80%;
+}
 
 #Historia{
     float: left;
@@ -158,6 +185,33 @@ footer{
     background-color: rgb(21, 124, 168,0.6);
 }
 
+#HistoriaDos{
+    float: left;
+    margin-top: 47%;
+    margin-left: -31%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    width: 50%;
+    background-color: rgb(21, 124, 168,0.6);
+}
+#HistoriaDosG{
+    float: left;
+    margin-top: 60%;
+    margin-left: -31%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    width: 50%;
+    background-color: rgb(21, 124, 168,0.6);
+}
+#HistoriaMana{
+    float: left;
+    margin-top: 80%;
+    margin-left: -31%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    width: 50%;
+    background-color: rgb(21, 124, 168,0.6);
+}
 #CiuA{
     float: left;
     width: 14%;
@@ -211,8 +265,8 @@ footer{
     float: left;
     height: max-content;
     width: 57%;
-    margin-left: 18%;
-    margin-top: 20%;
+    margin-left: 15%;
+    margin-top: 1%;
     margin-right: 2%;
 }
 #BloqueHistoria{
