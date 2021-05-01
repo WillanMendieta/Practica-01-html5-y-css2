@@ -1,23 +1,49 @@
+body{
+    background-image: url(../Imagenes/fondo.jpg);
+    background-size: cover;
+}
+
+#audio{
+    float: left;
+    width: 15%;
+    margin-left: -17%;
+    margin-top: 16%;
+}
+
+.Video{
+    float: left;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: -14%;
+}
+
 #nav li{
     border: black solid;
     font-style: italic;
     list-style: none;
-    }
-    #nav li a {
-        background-color: yellow;
-    }
+
+     background-color: greenyellow; 
+}
+#nav li a:hover{
+    background-color: yellow;
+}
+
 
 #navayuda{
     float: left;
     font-style: italic;
 }
 
-
-#navegacionLoMeAY li a{
-        background-color:red; 
+#navegacionLoMeAY li {
+    background-color: greenyellow;
+    border: black solid;
 }
 
-h1 {color: red; 
+#navegacionLoMeAY li a:hover{
+        background-color:yellow; 
+}
+
+h1 {color: whitesmoke; 
     font-family: 'Times New Roman', Times, serif; 
     font-weight: bolder;
     text-decoration: underline;
@@ -25,11 +51,50 @@ h1 {color: red;
     float: left;
 }
 
-h2 {color: black; 
+h2 {color: whitesmoke; 
     font-family: 'Times New Roman', Times, serif; 
-    font-weight:normal;
-    font-size: x-large;
+    font-weight: bolder;
+    font-size:500%;
     float: left;
+}
+
+.nom{
+    color: whitesmoke; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    font-size:200%;
+    float: left;
+}
+
+.correo{
+    color: whitesmoke; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    font-size:200%;
+    float: left;
+}
+
+
+.telefono{
+    color: whitesmoke; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    font-size:200%;
+    float: left;
+}
+
+.asunto{
+    color: whitesmoke; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bolder;
+    font-size:200%;
+    float: left;
+}
+
+
+#Historia{
+    color: whitesmoke;
+    background-color: rgb(21, 124, 168,0.6);
 }
 #Mapa {
     border: black solid;
@@ -55,30 +120,39 @@ h2 {color: black;
 
 #CiuA{
 
-    color: red; 
+    color: #5dc1b9 ; 
     font-family: 'Times New Roman', Times, serif; 
     font-weight:normal;
-    font-size: xx-large;
+    font-size: 400%;
 }
 
 #C1{
-    color: red; 
+    color: #5dc1b9; 
     font-family: 'Times New Roman', Times, serif; 
     font-weight:normal;
-    font-size: x-large;
+    font-size: 200%;
 
 }
 
 #C2{
-    color: red; 
+    color: #5dc1b9; 
     font-family: 'Times New Roman', Times, serif; 
     font-weight:normal;
-    font-size: x-large;
+    font-size: 200%;
 }
 
 #C3{
-    color: red; 
+    color: #5dc1b9; 
     font-family: 'Times New Roman', Times, serif; 
     font-weight:normal;
-    font-size: x-large;
+    font-size: 200%;
+}
+h3{
+    color: whitesmoke;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+footer{
+    color:whitesmoke;
 }

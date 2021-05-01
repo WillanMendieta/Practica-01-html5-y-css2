@@ -3,11 +3,14 @@ nav{
     margin-top: 1%;
     width: 101%;
 }
+
 #logo {
     float: left;
     width: 18%;
     margin-top: 1%;
 }
+
+
 #nav li{
     float: left;
     width: 12%;
@@ -19,11 +22,13 @@ nav{
     margin: 0;
 
     }
-    #nav li a {
+    #nav li a:hover {
         width: 100%;
         padding: 1% 1%;
         display: block;
-    }  
+        
+  }  
+
 #navayuda{
     float: left;
     margin-top: 8%;
@@ -50,10 +55,10 @@ nav{
 }
 *{
     margin: 0;
-    padding: 0;
-    
-    background-color: white;
+    padding: 0;  
 }
+
+
 h1{
     margin-left: 17%;
     margin-top: 3%;
@@ -62,8 +67,54 @@ h2{
     margin-left: 5%;
     margin-top: 8%;
 }
+
+
+#BloqueMedio{
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
+
+.nom{
+
+        float: left;
+        width: 14%;
+        margin-left: 40%;
+        margin-top: 0%;
+        height: 30%;
+}
+
+.correo{
+
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
+
+
+.telefono{
+
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
+
+.asunto{
+
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
+
 footer{
-    color:green;
     text-align:unset;
     margin-bottom: 1%;
     margin-top: 1%;
@@ -93,6 +144,18 @@ footer{
     margin-right: 1%;
     margin-bottom: 1%;
     width: 30%;
+    background-color: rgb(21, 124, 168,0.6);
+}
+
+
+#HistoriaDos{
+    float: left;
+    margin-top: 45%;
+    margin-left: -31%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    width: 57%;
+    background-color: rgb(21, 124, 168,0.6);
 }
 #CiuA{
     float: left;
@@ -163,4 +226,35 @@ footer{
 #Pie{
     float: left;
     width: 100%;
+}
+
+
+.tftable {
+    margin-top: 0%;
+    font-size:20%;
+    color:#333333;
+    width: 100%;
+    margin-left: 0%;
+    border-color: #729ea5;
+}
+.tftable th {
+    
+    background-color:#acc8cc;
+    border-width: 1%;
+    padding: 8%;
+    border-style: solid;
+    border-color: #729ea5;
+    text-align:left;
+}
+.tftable tr {
+    background-color:#d4e3e5;
+}
+.tftable td {
+    width: 50px;
+    text-align-last:center;
+    font-size: xx-large;
+    border-width: 1%;
+    padding: 3%;
+    border-style: groove;
+    border-color: #729ea5;
 }
