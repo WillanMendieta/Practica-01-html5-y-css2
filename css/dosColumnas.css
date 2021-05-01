@@ -157,97 +157,6 @@ footer{
     width: 30%;
     background-color: rgb(21, 124, 168,0.6);
 }
-#Historia3{
-    float: left;
-    margin-top: 82%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia4{
-    float: left;
-    margin-top: 122%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia5{
-    float: left;
-    margin-top: 162%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia6{
-    float: left;
-    margin-top: 202%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia7{
-    float: left;
-    margin-top: 242%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia8{
-    float: left;
-    margin-top: 282%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia9{
-    float: left;
-    margin-top: 322%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia10{
-    float: left;
-    margin-top: 362%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia11{
-    float: left;
-    margin-top: 382%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-#Historia12{
-    float: left;
-    margin-top: 422%;
-    margin-left: -31%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-    width: 30%;
-    background-color: rgb(21, 124, 168,0.6);
-}
-
 
 #CiuA{
     float: left;
@@ -303,7 +212,7 @@ footer{
     height: max-content;
     width: 57%;
     margin-left: 18%;
-    margin-top: 400%;
+    margin-top: 20%;
     margin-right: 2%;
 }
 #BloqueHistoria{
@@ -321,5 +230,3 @@ footer{
     float: left;
     width: 100%;
 }
-
-
