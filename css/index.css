@@ -92,42 +92,7 @@ h2{
     height: 30%;
 }
 
-.nom{
 
-        float: left;
-        width: 14%;
-        margin-left: 40%;
-        margin-top: 0%;
-        height: 30%;
-}
-
-.correo{
-
-    float: left;
-    width: 14%;
-    margin-left: 40%;
-    margin-top: 0%;
-    height: 30%;
-}
-
-
-.telefono{
-
-    float: left;
-    width: 14%;
-    margin-left: 40%;
-    margin-top: 0%;
-    height: 30%;
-}
-
-.asunto{
-
-    float: left;
-    width: 14%;
-    margin-left: 40%;
-    margin-top: 0%;
-    height: 30%;
-}
 
 footer{
     text-align:unset;
@@ -311,7 +276,42 @@ footer{
     margin-top: 7%;
 }
 
+.nom{
 
+        float: left;
+        width: 14%;
+        margin-left: 40%;
+        margin-top: 0%;
+        height: 30%;
+}
+
+.correo{
+
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
+
+
+.telefono{
+
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
+
+.asunto{
+
+    float: left;
+    width: 14%;
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 30%;
+}
 
 #BloqueImagen{
     float: left;
