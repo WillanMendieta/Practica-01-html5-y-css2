@@ -45,7 +45,7 @@ La etiqueta "<audio>" nos ayuda a vincular un audio de nuestro equipo a la pági
 12. Manejar listas ordenadas o desordenadas con al menos cinco ítems.<br/>
  ![img18](/imagen/i18.jpg)<br/>
  ![img19](/imagen/i19.jpg)<br/>
-Se utilizó la etiqueta "<ol>" para crear una lista ordenada, y la etiqueta "<li>" para ingresar valores a la lista.<br/>
+Se utilizó la etiqueta <ol> para crear una lista ordenada, y la etiqueta "<li>" para ingresar valores a la lista.<br/>
 
 13. Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.<br/>
   ![img20](/imagen/i20.jpg)<br/>
