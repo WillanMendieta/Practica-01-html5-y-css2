@@ -35,15 +35,15 @@ Se creó la tabla mediante la etiqueta table, la cual nos daba las opciones para
 La etiqueta <iframe> nos ayuda a vincular un video de otra plataforma (YouTube) a nuestra página personal.<br/>
 10. Un video con la etiqueta <video>.<br/>
  ![img14](/imagen/i14.jpg)<br/>
- ![img15](/imagen/i15.jpg)<br/>
+ ![img15](/imagen/i15.jpg)
 La etiqueta <video> nos ayuda a vincular un video de nuestro equipo a la página personal<br/>
 11. Un audio con la etiqueta <audio>.<br/>
  ![img16](/imagen/i16.jpg)<br/>
- ![img17](/imagen/i17.jpg)<br/>
+ ![img17](/imagen/i17.jpg)
 La etiqueta <audio> nos ayuda a vincular un audio de nuestro equipo a la página personal<br/>
 12. Manejar listas ordenadas o desordenadas con al menos cinco ítems.<br/>
  ![img18](/imagen/i18.jpg)<br/>
- ![img19](/imagen/i19.jpg)<br/>
+ ![img19](/imagen/i19.jpg)
 Se utilizó la etiqueta <ol> para crear una lista ordenada, y la etiqueta <li> para ingresar valores a la lista.<br/>
 13. Tener al menos cinco etiquetas de texto que se encuentran en la figura 1- 16 del texto guía de la asignatura.<br/>
   ![img20](/imagen/i20.jpg)<br/>
